@@ -1,4 +1,5 @@
 # Practice
-Documentation of my general code practice.
+A collection of practice projects used for my understanding of coding.
 
-Test change.
+In Progress:
+- Python Basics
