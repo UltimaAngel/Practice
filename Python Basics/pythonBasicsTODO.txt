@@ -1,5 +1,34 @@
 *** IN PROGRESS ***
-[1] ...
-
+1   Variables
+2   Data Types
+3   Numbers
+4   Casting
+5   Strings
+6   Booleans
+7   Operators
+8   Lists
+9   Tuples
+10  Sets
+11  Dictionaries
+12  If Else
+13  While
+14  For
+15  Functions
+16  Lambda
+17  Arrays
+18  Classes/Objects
+19  Inheritance
+20  Iterators
+21  Polymorphism
+22  Scope
+23  Modules
+24  Dates
+25  Math
+26  JSON
+27  RegEx
+28  PIP
+29  Try Except
+30  User Input
+31  String Format
 
 *** COMPLETED ***
