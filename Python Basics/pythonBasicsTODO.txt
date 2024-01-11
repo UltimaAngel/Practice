@@ -1,5 +1,4 @@
 *** IN PROGRESS ***
-1   Variables
 2   Data Types
 3   Numbers
 4   Casting
@@ -32,3 +31,4 @@
 31  String Format
 
 *** COMPLETED ***
+1   Variables
