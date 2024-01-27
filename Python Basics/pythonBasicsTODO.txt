@@ -1,6 +1,4 @@
 *** IN PROGRESS ***
-3   Numbers
-4   Casting
 5   Strings
 6   Booleans
 7   Operators
@@ -32,3 +30,5 @@
 *** COMPLETED ***
 1   Variables
 2   Data Types
+3   Numbers
+4   Casting

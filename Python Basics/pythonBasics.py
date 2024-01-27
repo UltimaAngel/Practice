@@ -23,6 +23,15 @@ frozeCast = frozenset(("J", "K", "L"))
 boolCast = bool(2)
 bytesCast = bytes(4)
 
+intStr = int("11")
+intFloat = int(12.2)
+floatInt = float(13)
+floatStr = float("14.3")
+strInt = str(15)
+strFloat = str(16.4)
+
+#Play with strings next
+
 a, b, c = "Aa", "Bb", "Cc"
 
 first = "part ONE"
