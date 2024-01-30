@@ -1,5 +1,4 @@
 *** IN PROGRESS ***
-6   Booleans
 7   Operators
 8   Lists
 9   Tuples
@@ -32,3 +31,4 @@
 3   Numbers
 4   Casting
 5   Strings
+6   Booleans

@@ -30,6 +30,8 @@ floatStr = float("14.3")
 strInt = str(15)
 strFloat = str(16.4)
 
+print("\tString START\n")
+
 simpleStr = " Hey, sup"
 longStr = """This string is designed to be
 comically long. Note that it uses three
@@ -38,7 +40,6 @@ quotes can be used as well."""
 numStr = "0123456789"
 formatStr = "Input values are: {}, {}, and {}"
 formatStrI = "Value 2: {2} | Value 1: {1} | Value 0: {0}"
-print("\tString START\n")
 
 print(simpleStr[3])
 for x in simpleStr:
@@ -59,7 +60,7 @@ print(simpleStr.lower())
 print(simpleStr.strip())
 print(simpleStr.replace(",", "!"))
 print(simpleStr.split(", "))
-#There's many more string methods to show off.
+#There are many more string methods to show off.
 
 print(simpleStr + " - " + numStr)
 
@@ -68,8 +69,17 @@ print(formatStrI.format(24, 25, 26))
 
 print("A \'guy\' \\ dude\n made\troom\rfor \bodd \fstuff")
 
-
 print("\tString END\n")
+
+print("\tBoolean START\n")
+
+if 5 > 1: print("5 > 1")
+if 5 == 5: print("5 == 5")
+if 1 < 5: print("1 < 5")
+if bool(5): print("5 is True")
+if isinstance(5, int): print("5 is int")
+
+print("\tBoolean END\n") 
 
 
 a, b, c = "Aa", "Bb", "Cc"
