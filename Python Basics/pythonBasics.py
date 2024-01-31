@@ -81,6 +81,71 @@ if isinstance(5, int): print("5 is int")
 
 print("\tBoolean END\n") 
 
+print("Operators START")
+
+print(10+3)
+print(10-3)
+print(10*3)
+print(10/3)
+print(10%3)
+print(10**3)
+print(10//3)
+
+opA = 24
+print(opA)
+opA += 3
+print(opA)
+opA -= 2
+print(opA)
+opA *= 2
+print(opA)
+opA /= 2
+print(opA)
+opA %= 7
+print(opA)
+opA //= 3
+print(opA)
+opA **= 2
+print(opA)
+opB = 3
+opB &= 1
+print(opB)
+opB |= 2
+print(opB)
+opB ^= 7
+print(opB)
+opB >>= 2
+print(opB)
+opB <<= 3
+print(opB)
+
+print(5==5)
+print(5!=5)
+print(5>5)
+print(5<5)
+print(5>=5)
+print(5<=5)
+
+print(True and False)
+print(True or False)
+print(not True)
+
+print(opA is opB)
+print(opA is not opB)
+
+opC = "Joe"
+print("o" in opC)
+print("J" not in opC)
+
+print(8 & 7)
+print(8 | 7)
+print(8 ^ 6)
+print(~8)
+print(2 << 1)
+print(2 >> 1)
+
+print("Operators END")
+
 
 a, b, c = "Aa", "Bb", "Cc"
 
